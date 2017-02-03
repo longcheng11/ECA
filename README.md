@@ -1,5 +1,5 @@
 # ECA
-Test code for Efficient Correlation over Distributed Systems
+Test code for the paper "Efficient Event Correlation over Distributed Systems" [1]
 
 1, The used METIS graph paritioner is avialble at (http://glaros.dtc.umn.edu/gkhome/metis/metis/download).
 
@@ -19,3 +19,6 @@ Test code for Efficient Correlation over Distributed Systems
 3, How to set Spark, please refer to http://spark.apache.org/.
 
 4, If any questions, please email to l.cheng(AT)tue.nl
+
+
+[1] Long Cheng, Boudewijn van Dongen and Wil van der Aalst. Efficient Event Correlation over Distributed Systems. Proc. 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, May 2017.
